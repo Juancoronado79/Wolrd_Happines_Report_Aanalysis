@@ -15,7 +15,7 @@ This analysis was conducted using the following tools and technologies:
 - Scikit-learn: For implementing machine learning models.
 - Tableau: For visualizations and Storyteller.
 
-- [view Tableau presentation here](https://public.tableau.com/app/profile/juan.carlos.coronado.orrego/viz/Book1_17174100104270/Story1?publish=yes)
+- [view Tableau presentation here](https://public.tableau.com/app/profile/juan.carlos.coronado.orrego/viz/WorldHappinessReportAnalysis_17174259091330/WHRAnalysis?publish=yes)
 
 ---
 
