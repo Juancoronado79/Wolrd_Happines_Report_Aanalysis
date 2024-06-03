@@ -1,4 +1,4 @@
-# World_Happines_Report_Analysis
+# World_Happiness_Report_Analysis
 
 # Introduction 
 
