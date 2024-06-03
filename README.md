@@ -2,7 +2,7 @@
 
 # Introduction 
 
-The Global Happiness Report Analysis provides insights into the factors influencing happiness across various countries and regions. This analysis aims to identify key variables that contribute to happiness and understand their impact on different countries' happiness scores.
+The Global Happiness Report Analysis provides detailed insights into the factors influencing happiness across various countries and regions. This study focuses on identifying the variables that contribute to the happiness score and examining the relationships between these variables. By employing supervised regression modeling and clustering techniques, the analysis aims to determine the existence of a decisive variable in evaluating happiness.
 
 ---
 
